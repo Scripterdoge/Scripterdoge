@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://fxxkpython.com">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scripterdoge&hide=contribs"/>
-    ----------------------------------------------------------------------
+    <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Scripterdoge&theme=onedark"/>
   </a>
 </p>
