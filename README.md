@@ -6,9 +6,10 @@
 <p align="center">
   <a href="https://fxxkpython.com">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scripterdoge&hide=contribs"/>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Scripterdoge&theme=onedark"/>
   </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Scripterdoge&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Scripterdoge/Scripterdoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
